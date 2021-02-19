@@ -7,8 +7,11 @@ public class hello {
         // initialize variables
         String firstName = "Alex";
 	
-		// output welcome message
+	// output welcome message
         System.out.println("Hello world!");
+	 
+	// end
+	
 
 
     }
